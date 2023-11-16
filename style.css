@@ -6,6 +6,11 @@ html {
 .container {
     
 }
+
+.body {
+    height : 100vh;
+}
+
 .container-navbar {
     background-color: rgb(203, 180, 132);
     width: 100%;
